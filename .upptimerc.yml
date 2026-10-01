@@ -6,6 +6,8 @@ sites:
     url: https://getmailboat.com
   - name: App
     url: https://app.getmailboat.com
+  - name: Downloads
+    url: https://dl.getmailboat.com/healthz
 
 status-website:
   cname: status.getmailboat.com

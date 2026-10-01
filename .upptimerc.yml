@@ -1,0 +1,22 @@
+owner: getmailboat
+repo: status
+
+sites:
+  - name: Website
+    url: https://getmailboat.com
+  - name: App
+    url: https://app.getmailboat.com
+
+status-website:
+  cname: status.getmailboat.com
+  logoUrl: https://raw.githubusercontent.com/getmailboat/mailboat/main/site/favicon.svg
+  name: Mailboat
+  introTitle: "Mailboat status — live uptime history, recorded by GitHub Actions."
+  introMessage: Independent monitoring for the [Mailboat](https://getmailboat.com) website and application. Full history is stored in and auditable from our [GitHub repository](https://github.com/getmailboat/status).
+  navbar:
+    - title: Status
+      href: /
+    - title: Website
+      href: https://getmailboat.com
+    - title: Contact
+      href: https://getmailboat.com/contact.html
